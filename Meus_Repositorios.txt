@@ -1,0 +1,33 @@
+LISTA COM TODOS OS MEUS REPOSITORIOS ATÉ O MOMENTO
+CONSEGUIDO ATRAVÉS DE UM FECTH NA API DO GITHUB 
+
+https://github.com/clesiomatias/Alurakut
+https://github.com/clesiomatias/angular
+https://github.com/clesiomatias/A_Rede
+https://github.com/clesiomatias/BLACKJACK_PYTHON
+https://github.com/clesiomatias/Bot-Tradutor
+https://github.com/clesiomatias/Clone-do-Jogo-Dino-sem-net
+https://github.com/clesiomatias/Clone-Instagram-DIO
+https://github.com/clesiomatias/Clone-Jogo-Genius
+https://github.com/clesiomatias/Clone-Netflix---DIO
+https://github.com/clesiomatias/Criando-um-front-end-totalmente-componentizado-com-ReactJS
+https://github.com/clesiomatias/Cursos_Digital_Inovation
+https://github.com/clesiomatias/Dio-desafio-Github
+https://github.com/clesiomatias/Diversos
+https://github.com/clesiomatias/Django_Agenda
+https://github.com/clesiomatias/Frankenstein_CSS3
+https://github.com/clesiomatias/Jogo-da-Forca
+https://github.com/clesiomatias/Jogo-de-Helicoptero-DIO
+https://github.com/clesiomatias/Jogo-Par-ou-Impar
+https://github.com/clesiomatias/Jogo_da_Cobrinha_Javascript
+https://github.com/clesiomatias/Jogo_da_velha_JS_DIO
+https://github.com/clesiomatias/Jogo_El_Diablo
+https://github.com/clesiomatias/Jogo_memoria_Mario
+https://github.com/clesiomatias/JoKenPo
+https://github.com/clesiomatias/Jokenpo_Javascript
+https://github.com/clesiomatias/Projeto_Busca_Restaurantes_DIO
+https://github.com/clesiomatias/PWA-NEWS-DIO
+https://github.com/clesiomatias/Python_Projects
+https://github.com/clesiomatias/Spaceinvaders
+https://github.com/clesiomatias/SpaceShooter_JS
+https://github.com/clesiomatias/Tutorial-FlapPy-Bird-Turtle
